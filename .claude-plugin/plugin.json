@@ -1,0 +1,10 @@
+{
+  "name": "coding-wisdom",
+  "description": "Systematically capture and organize coding wisdom accumulated during development tasks. Tracks development principles, debug principles, trivial user-caring features, and non-consensus coding tips. Use during/after coding to capture insights, or before coding to find relevant wisdom.",
+  "author": {
+    "name": "Erin Yu",
+    "email": "your@email.com"
+  },
+  "version": "1.0.0",
+  "license": "MIT"
+}
